@@ -1,0 +1,7 @@
+streamlit
+streamlit-webrtc
+SpeechRecognition
+gtts
+pydub
+openai
+playsound==1.2.2  # Specify version to avoid conflicts
